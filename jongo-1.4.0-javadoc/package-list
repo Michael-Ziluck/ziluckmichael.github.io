@@ -1,8 +1,0 @@
-org.jongo
-org.jongo.bson
-org.jongo.marshall
-org.jongo.marshall.jackson
-org.jongo.marshall.jackson.bson4jackson
-org.jongo.marshall.jackson.configuration
-org.jongo.marshall.jackson.oid
-org.jongo.query
